@@ -2,5 +2,5 @@
 
 # Java REST API Framework
 
-> ![Warning]
+> [!WARNING]
 > Recreational project, not to be used in production.
